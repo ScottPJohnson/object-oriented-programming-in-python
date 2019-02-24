@@ -6,4 +6,3 @@ def tell(intro, punchline):
     print(punchline)
 	
 tell("Atch", "Sounds like you’ve got a cold!")
-hi
