@@ -14,4 +14,8 @@ class Room():
 		self.name = room_name
 
 	def get_name(self):
-		return self.name 
+		return self.name
+
+	def describe(self):
+		print(self.name)
+		print(self.description)
